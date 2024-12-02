@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JNK9sTbH6fc5z7m8othhFrvq/KarkLxuUKyw3maJb68=",
+  "Source": "ServiceRequestAPI",
+  "BasePath": "_content/ServiceRequestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
